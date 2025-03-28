@@ -1,0 +1,4 @@
+1.learn git commands 2. implement them. > todo.txt
+clear
+
+
